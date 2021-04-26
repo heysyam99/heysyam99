@@ -11,8 +11,3 @@
 **Email**: heysyam99@gmail.com
 
 **Linkedin**: [https://www.linkedin.com/in/mohamad-hisyam-syazani-579847184/](https://www.linkedin.com/in/mohamad-hisyam-syazani-579847184/)
-
-[![Hisyam's github stats](https://github-readme-stats.vercel.app/api?username=heysyam99)](https://github.com/heysyam99)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heysyam99&layout=compact)](https://github.com/heysyam99/)
-

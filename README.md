@@ -4,7 +4,7 @@
 
 - 🌱  I’m currently learning **Ruby** [![Ruby](https://cdn.emojidex.com/emoji/px16/Ruby.png?1465787635 "Ruby") ](https://www.ruby-lang.org), **Python** 🐍, and some DevOps tech such as **Docker** 🐳  and **Git Workflow**
 - 💬 Ask me about anything, I am happy to help and contribute.
-- Here is my [Resume](https://drive.google.com/file/d/15m_-ArCNVpJZjnX7Wo4yU4EBlLayzoGh/view?usp=sharing) 📝
+- Here is my [Resume](https://drive.google.com/file/d/1SejsbXARw0dK5qrQgIyfYTIoVT4GLPpl/view?usp=sharing) 📝
 
 📫  How to reach me:
 

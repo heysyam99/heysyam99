@@ -4,7 +4,7 @@
 
 - 🌱  I’m currently learning **Ruby** [![Ruby](https://cdn.emojidex.com/emoji/px16/Ruby.png?1465787635 "Ruby") ](https://www.ruby-lang.org), **Golang**, and some DevOps tech such as **Docker** 🐳  and **Git Workflow**
 - 💬 Ask me about anything, I am happy to help and contribute.
-- Here is my [Resume](https://drive.google.com/file/d/1SejsbXARw0dK5qrQgIyfYTIoVT4GLPpl/view?usp=sharing) 📝
+- Here is my [resume](https://drive.google.com/file/d/1kHYpQvqHLLTwcTmVD-O56mAunzLI_KCZ/view) 📝
 
 📫  How to reach me:
 
@@ -12,4 +12,4 @@
 
 **Linkedin**: [https://www.linkedin.com/in/mohamad-hisyam-syazani-579847184/](https://www.linkedin.com/in/mohamad-hisyam-syazani-579847184/)
 
-Last updated at 2 Oct 2021
+Last updated at 11 Dec 2021

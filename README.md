@@ -10,6 +10,6 @@
 
 **Email**: heysyam99@gmail.com
 
-**Linkedin**: [https://www.linkedin.com/in/mohamad-hisyam-syazani-579847184/](https://www.linkedin.com/in/mohamad-hisyam-syazani-579847184/)
+**Linkedin**: [https://www.linkedin.com/in/hisyam-syazani](https://www.linkedin.com/in/hisyam-syazani)
 
 Last updated at 11 Dec 2021

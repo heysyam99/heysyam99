@@ -12,4 +12,4 @@
 
 **Linkedin**: [https://www.linkedin.com/in/hisyam-syazani](https://www.linkedin.com/in/hisyam-syazani)
 
-Last updated at 11 Dec 2021
+<a href="https://app.daily.dev/heysyam99"><img src="https://api.daily.dev/devcards/24cb353bfbdb4d419abee1950b85b5b7.png?r=gfj" width="400" alt="Hisyam Syazani's Dev Card"/></a>

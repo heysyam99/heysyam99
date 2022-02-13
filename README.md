@@ -20,9 +20,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=heysyam99&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=heysyam99&theme=dark&hide_border=true)<br/>
 
-
-<a href="https://app.daily.dev/heysyam99"><img src="https://api.daily.dev/devcards/24cb353bfbdb4d419abee1950b85b5b7.png?r=gfj" width="400" alt="Hisyam Syazani's Dev Card"/></a>
-
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 

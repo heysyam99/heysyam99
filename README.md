@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Glad to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/heysyam99?tab=repositories) represent my journey :running_man: - From **being curious** :thinking: about how does online games works when I was a little kids to becoming software engineer at [Decube](https://www.decube.io/) :dart:. Outside of [GitHub](https://github.com/heysyam99/), You can **find me on [LinkedIn](https://www.linkedin.com/in/hisyam-syazani/)** and **[HackerRank](https://www.hackerrank.com/heysyam99)**.
+**Glad to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/heysyam99?tab=repositories) represent my journey :running_man: - From **being curious** :thinking: about how do online games work when I was a little kid to become a software engineer at [Decube](https://www.decube.io/) :dart:. Outside of [GitHub](https://github.com/heysyam99/), You can **find me on [LinkedIn](https://www.linkedin.com/in/hisyam-syazani/)** and **[HackerRank](https://www.hackerrank.com/heysyam99)**.
 
 - 🌱  I’m currently learning **Ruby** [![Ruby](https://cdn.emojidex.com/emoji/px16/Ruby.png?1465787635 "Ruby") ](https://www.ruby-lang.org), **Golang**, and some DevOps tech such as **Docker** 🐳  and **Git Workflow**
 - 💬 Ask me about anything, I am happy to help and contribute.

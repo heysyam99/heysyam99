@@ -14,7 +14,7 @@
 **Email**: heysyam99@gmail.com
 
 ## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hisyam-syazani/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hisyam-syazani/) 
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=heysyam99&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
